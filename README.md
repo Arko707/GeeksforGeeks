@@ -1,7 +1,7 @@
 # GeeksforGeeks Practice Questions
 **GeeksforGeeks Practice Questions** consists of solution for the practice questions provided in GeeksforGeeks of Organisations like Amazon, Microsoft, Flipkart, Adobe etc.
 <br><br>
-**This is an open-source repository, therefore can push any of the practice problems of GeeksforGeeks of the Organisations mentioned above.** 
+**This is an open-source repository, therefore can push any of the practice problems of GeeksforGeeks of the Organisations mentioned above which is not is this repository.** 
 
 ## Refer to Links Below
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
